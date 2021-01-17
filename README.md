@@ -1,1 +1,1 @@
-COBOL enthusiast
+Javascript was a mistake
