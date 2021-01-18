@@ -1,1 +1,1 @@
-Javascript was a mistake
+advocate for existence
