@@ -18,3 +18,4 @@
 2021-01-31_07:17:24:professional hello world runner
 2021-02-01_06:40:29:jason data collecter
 2021-02-02_07:18:22:i am a curry and part of the curry fandom. its where you have a version of yourself that consumes curry among other noodles.
+2021-02-03_07:34:50:trying out ssh
