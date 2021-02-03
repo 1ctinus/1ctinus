@@ -1,1 +1,1 @@
-trying out ssh
+neovim is vim, but vim isn't neovim. 
