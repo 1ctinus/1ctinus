@@ -20,3 +20,4 @@
 2021-02-02_07:18:22:i am a curry and part of the curry fandom. its where you have a version of yourself that consumes curry among other noodles.
 2021-02-03_07:34:50:trying out ssh
 2021-02-03_09:35:01:neovim is vim, but vim isn't neovim. 
+2021-02-03_20:56:30:it's just ok 

@@ -1,1 +1,1 @@
-neovim is vim, but vim isn't neovim. 
+it's just ok 
