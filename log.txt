@@ -22,3 +22,4 @@
 2021-02-03_09:35:01:neovim is vim, but vim isn't neovim. 
 2021-02-03_20:56:30:it's just ok 
 2021-02-04_06:59:27:hide the pain harold but irl
+2021-02-05_12:01:00:node is hard
