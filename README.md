@@ -1,3 +1,1 @@
-proud creator of inventing something.
-
-<localhost>
+fried can of cheese
