@@ -1,1 +1,1 @@
-foxconn owns labor camps and apple is complicit
+I'm still active, ignore the not-so-green-anymore squares
